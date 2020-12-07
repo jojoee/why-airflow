@@ -20,7 +20,7 @@
     - Demo (screen capture with explanation)
 
 ## CMD
-```
+```bash
 ssh admin@mongo
 ssh admin@airflow-project
 airflow version
