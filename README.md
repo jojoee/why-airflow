@@ -45,24 +45,8 @@ airflow test my_cryptocurrency save_data 2015-06-01
 ## Reference
 ### Official document
 - https://airflow.apache.org/
-- https://airflow.apache.org/cli.html
-- https://airflow.apache.org/faq.html
-- https://airflow.apache.org/code.html
-- https://airflow.apache.org/start.html
-- https://airflow.apache.org/plugins.html
-- https://airflow.apache.org/security.html
-- https://airflow.apache.org/security.html#hadoop
-- https://airflow.apache.org/installation.html
-- https://airflow.apache.org/code.html#operators
-- https://airflow.readthedocs.io/en/stable/integration.html
-- https://airflow.readthedocs.io/en/stable/installation.html
-- https://airflow.readthedocs.io/en/latest/scheduler.html#backfill-and-catchup
-- https://airflow.apache.org/scheduler.html#backfill-and-catchup
-- https://github.com/apache/incubator-airflow
-- https://airflow.incubator.apache.org/_modules/index.html
-- https://airflow.incubator.apache.org/_modules/airflow/operators/hive_operator.html
-- https://docs.python.org/2/library/datetime.html
-- https://docs.python.org/3/library/datetime.html
+- https://airflow.apache.org/docs/apache-airflow/stable/faq.html
+- https://airflow.apache.org/docs/apache-airflow/stable/start.html
 
 ### Comparison
 - http://bytepawn.com/luigi-airflow-pinball.html
