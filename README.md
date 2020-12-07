@@ -1,6 +1,6 @@
 # Why Apache Airflow
 
-![Demo](https://raw.githack.com/jojoee/why-airflow/master/asset/demo.png)
+[![Demo](https://raw.githack.com/jojoee/why-airflow/master/asset/demo.png)](https://github.com/jojoee/why-airflow/blob/master/why-airflow.ipynb)
 
 ## Member
 - Nathachai Thongniran, ณัฐชัย ทองนิรันดร์, 6071009021
